@@ -1,0 +1,330 @@
+
+.first-container{
+  margin-top: -19px;
+    margin-right: -8px;
+    margin-left: -8px;
+    height: 724px;
+
+}
+.welcome{
+
+}
+
+
+
+
+.top-container{
+  padding:40px
+
+}
+img{
+  float:left;
+  width: 925px;
+  margin-left:-39px;
+}
+.intro{
+  font-family: Helvetica;
+  font-size: 32px;
+  margin-top: 123px;
+
+}
+.domain{
+  color:grey;
+}
+
+
+.second-container{
+  background-color:#203239;
+  font-family: font-file-82132;
+  color: #08fdd8;
+  margin-top: 36px;
+  margin-left: -9px;
+  margin-right: -8px;
+  height: 720px;
+}
+.about-mine{
+  color:white;
+  position: absolute;
+  left: 150px;
+  margin-top: 137px;
+  font-family: sans-serif;
+  font-size: 19px;
+
+}
+h2{
+  position: absolute;
+    left: 150px;
+    font-family: sans-serif;
+    font-size: 64px;
+}
+.bigee{
+  position: absolute;
+    margin-top: 357px;
+    left: 44px;
+    color: grey;
+    font-size: 299px;s
+
+}
+.html{
+  position: absolute;
+    right: 448px;
+    top: 806px;
+    font-size: 30px;
+}
+.css{
+  position: absolute;
+    right: 324px;
+    top: 821px;
+    font-size: 30px;
+}
+.javascript{
+  position: absolute;
+    right: 260px;
+    top: 914px;
+    font-size: 30px;
+
+}
+.react{
+  position: absolute;
+    right: 324px;
+    top: 722px;
+    font-size: 30px;
+}
+.node{
+  position: absolute;
+    right: 150px;
+    top: 787px;
+    font-size: 30px;
+}
+.html1{
+  position: absolute;
+    right: 128px;
+    top: 875px;
+    font-size: 30px;
+
+}
+.css1{
+  position: absolute;
+    right: 494px;
+    top: 974px;
+    font-size: 30px;
+
+}
+.react1{
+  position: absolute;
+    right: 158px;
+    top: 992px;
+    font-size: 30px;
+
+}
+.node1{
+  position: absolute;
+    right: 515px;
+    top: 888px;
+    font-size: 30px;
+
+}
+.Third-container{
+  background-color: white;
+    margin-top: -21px;
+    margin-left: -8px;
+    margin-right: -8px;
+    height: 701px;
+
+}
+
+.Third-container h2{
+   color: seagreen;
+}
+.about-intrest{
+  color: black;
+    position: absolute;
+    left: 150px;
+    margin-top: 137px;
+    font-family: sans-serif;
+    font-size: 19px;
+}
+.game{
+  position: absolute;
+    width: 661px;
+    margin-left: 744px;
+    margin-top: 78px;
+}
+.skills{
+  font-size:20px;
+    position: absolute;
+    margin-top: 330px;
+    margin-left: 124px;
+    font-family: "Noto Sans",sans-serif;
+    line-height: 3;
+}
+.Strength{
+  color:seagreen;
+font-size: 25px;
+font-weight: bolder;
+font-family: sans-serif;
+}
+.facebook{
+  width: 50px;
+position: absolute;
+margin-left: 2px;
+margin-top: 530px;
+}
+.facebook:hover{
+  background-color: gray;
+    width: 55px;
+    border-radius: 52px;
+}
+.twitter{
+  width: 50px;
+position: absolute;
+margin-left: 88px;
+margin-top: 530px;
+
+}
+.twitter:hover{
+  background-color: gray;
+    width: 55px;
+    border-radius: 52px;
+}
+.insta{
+  width: 50px;
+position: absolute;
+margin-left: 175px;
+margin-top: 530px;
+
+}
+.insta:hover{
+  background-color: gray;
+    width: 55px;
+    border-radius: 52px;
+
+}
+.linkedin{
+  width: 50px;
+position: absolute;
+margin-left: 259px;
+margin-top: 530px;
+
+}
+.linkedin:hover{
+  background-color: gray;
+    width: 55px;
+    border-radius: 52px;
+
+}
+.bottom-container{
+  background-color: #203239;
+  margin-top:0px;
+  margin-left:-8px;
+  margin-right:-8px;
+  height:600px;
+
+  }
+  .contact-me{
+    color: #08fdd8;
+font-family: 'Dosis', sans-serif;
+position: absolute;
+right: 241px;
+margin-top: 37px;
+font-size: 76px;
+  }
+  .name-label{
+    color: #08fdd8;
+    font-family: 'Dosis', sans-serif;
+    position: absolute;
+    right: 505px;
+    margin-top: 148px;
+    font-size: 45px
+
+  }
+  .name{
+    position: absolute;
+    right: 234px;
+    margin-top: 157px;
+     padding: 10px;
+     font-size: 18px;
+     border-width: 3px;
+     border-color: #231f1f;
+     background-color: #aba4a4;
+     color: #14edf0;
+     border-style: double;
+     border-radius: 3px;
+     box-shadow: 0px 0px 5px rgba(170,68,153,.75);
+     text-shadow: 0px 0px 5px rgba(66,66,66,.75);
+}
+.email-label{
+  color: #08fdd8;
+  font-family: 'Dosis', sans-serif;
+  position: absolute;
+  right: 505px;
+  margin-top: 224px;
+  font-size: 45px;
+
+}
+.email{
+  position: absolute;
+  right: 234px;
+  margin-top: 234px;
+   padding: 10px;
+   font-size: 18px;
+   border-width: 3px;
+   border-color: #231f1f;
+   background-color: #aba4a4;
+   color: #14edf0;
+   border-style: double;
+   border-radius: 3px;
+   box-shadow: 0px 0px 5px rgba(170,68,153,.75);
+   text-shadow: 0px 0px 5px rgba(66,66,66,.75);
+
+}
+.sub-label{
+  color: #08fdd8;
+  font-family: 'Dosis', sans-serif;
+  position: absolute;
+  right: 505px;
+  margin-top: 304px;
+  font-size: 45px;
+
+}
+.sub{
+  position: absolute;
+  right: 234px;
+  margin-top: 314px;
+   padding: 10px;
+   font-size: 18px;
+   border-width: 3px;
+   border-color: #231f1f;
+   background-color: #aba4a4;
+   color: #14edf0;
+   border-style: double;
+   border-radius: 3px;
+   box-shadow: 0px 0px 5px rgba(170,68,153,.75);
+   text-shadow: 0px 0px 5px rgba(66,66,66,.75);
+
+}
+.comment-label{
+  color: #08fdd8;
+  font-family: 'Dosis', sans-serif;
+  position: absolute;
+  right: 505px;
+  margin-top: 385px;
+  font-size: 45px;
+
+}
+.comments{
+  position: absolute;
+  right: 139px;
+  margin-top: 392px;
+   padding: 10px;
+   font-size: 18px;
+   border-width: 3px;
+   border-color: #231f1f;
+   background-color: #aba4a4;
+   color: #14edf0;
+   border-style: double;
+   border-radius: 3px;
+   box-shadow: 0px 0px 5px rgba(170,68,153,.75);
+   text-shadow: 0px 0px 5px rgba(66,66,66,.75);
+
+}
